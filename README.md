@@ -27,7 +27,7 @@ Webpages restrict the input to prevent the user from submitting invalid input. H
 the program will alert the user and provide feedback as to what went wrong. On the other hand, input fields turn green to indicate a successful request.
 
 ## Usage
-The server can be started by simply running the provided jar file, for example with the following terminal command from inside the root directory:
+The server can be started by running the provided jar file from inside the root directory:
 ```
 java -jar target/school-management-system-1.0-jar-with-dependencies.jar
 ```
