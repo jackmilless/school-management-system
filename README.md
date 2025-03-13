@@ -23,7 +23,7 @@ with a few menu options. On the right they can either search for a particular re
 The user can click on any of the rows in the table to open a specific record. They can also click on most of the header cells to re-order the records. 
 If the user opens a specific record they can change certain fields and update the record in the database.
 
-Webpages restrict the input to limit the number of invalid inputs a user can submit. However, if the user attempts to persist data that violates a more complex constraint,
+Webpages restrict the input to prevent the user from submitting invalid input. However, if the user attempts to persist data that violates a complex database constraint,
 the program will alert the user and provide feedback as to what went wrong. On the other hand, input fields turn green to indicate a successful request.
 
 ## Usage
