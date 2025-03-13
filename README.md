@@ -34,6 +34,6 @@ java -jar target/school-management-system-1.0-jar-with-dependencies.jar
 A large number of example records are inserted during startup so it may take a few seconds to load, but a series of Javalin messages indicate the server is active.
 The program is set to run on port 7000 so the home page (and entry point into the program from the frontend) can be visited with the following URL:
 ```
-https//localhost:7000
+localhost:7000
 ```
 The server (and program) can be terminated from the frontend by pressing the "Stop Server" button in the bottom left corner on the home page (which can be visited from any other page with a button on the bottom right).
